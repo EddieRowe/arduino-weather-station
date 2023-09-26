@@ -5,6 +5,9 @@
 ### Description
 
 This is a simple Arduino project that uses a DHT11 sensor to monitor temperature and humidity, and an LCD to display the information.
+I currently have mine setup next to a window, with the sensor outside. This way I can see the outside temperature and humidity.
+
+In future I plan to add another sensor for indoor conditions, and possibly upgrade to DHT22 sensors for greater precision and range.
 
 ### Requirements
 
