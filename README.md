@@ -8,7 +8,7 @@ This is a simple Arduino project that uses a DHT11 sensor to monitor temperature
 
 ### Requirements
 
-- An Arduino, I used an Arduino UNO, but most others should work fine.
+- An Arduino, I used an Arduino UNO, but most others should work fine. (£15-£20)
 - A DHT11 sensor. (<£2)
 - A 16x2 LCD. (<£6)
 - A breadboard and wires! (<£2)
