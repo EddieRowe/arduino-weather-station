@@ -1,4 +1,6 @@
 # arduino-weather-station
+![GitHub](https://img.shields.io/github/license/EddieRowe/arduino-weather-station)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EddieRowe/arduino-weather-station)
 
 ## A simple Arduino-based weather station.
 
